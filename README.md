@@ -35,6 +35,24 @@ The application combines historical data analysis, data quality validation, math
 
 ---
 
+## Live Demo
+
+**AgriScenario AI is deployed on Streamlit Community Cloud.**
+
+**Live Application:** (https://agriscenario-ai-d3li3yeuyqqqpq2kdo58sr.streamlit.app/AI_Insights)
+
+Explore the following features:
+- Agricultural Dashboard
+- Historical Data and Analysis
+- Scenario Builder
+- Scenario Comparison
+- Agent Workflow
+- Gemini-Powered AI Insights
+- Ask AgriScenario AI
+
+**Note:** Gemini-powered features require a valid Gemini API key configured through Streamlit Cloud Secrets.
+
+
 ## 1. Project Overview
 
 Agriculture plays an important role in India's economy. Understanding agricultural production, crop performance, cultivated area, and regional differences is essential for effective agricultural planning and decision-making.
